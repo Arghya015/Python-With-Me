@@ -1,4 +1,4 @@
-# PyPython Code Collection 🚀
+# Python: A New Vision 🚀
 
 This repository contains a collection of Python programs covering different topics, from beginner-friendly examples to advanced problem-solving scripts. It is designed to be a reference hub for students, developers, and anyone learning or practicing Python.
 
