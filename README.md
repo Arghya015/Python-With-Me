@@ -49,4 +49,4 @@ Open a Pull Request.
 Maintainer – [Arghya Roy]
 
 Suggestions – Always welcome!
-Maintained by [Arghya]. Suggestions and improvements are always appreciated!thon-With-Me
+Maintained by [Arghya]. Suggestions and improvements are always appreciated! Python-With-Me
