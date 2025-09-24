@@ -2,66 +2,51 @@
 
 This repository contains a collection of Python programs covering different topics, from beginner-friendly examples to advanced problem-solving scripts. It is designed to be a reference hub for students, developers, and anyone learning or practicing Python.
 
-📂 Repository Structure
+# Repository Structure 📂 
 
-Basics/ → Simple Python programs (loops, conditions, functions, etc.)
+Basics – Simple programs (loops, conditions, functions).
 
-Data Structures/ → Programs on lists, tuples, sets, dictionaries, stacks, queues, etc.
+Data Structures – Lists, tuples, sets, dictionaries, stacks, queues.
 
-Algorithms/ → Searching, sorting, recursion, and optimization problems.
+Algorithms – Searching, sorting, recursion, optimization.
 
-OOP/ → Object-Oriented Programming examples (classes, inheritance, polymorphism).
+OOP – Classes, inheritance, polymorphism, encapsulation.
 
-Projects/ → Mini projects and real-world Python applications.
+Projects – Mini projects and real-world scripts.
 
-Miscellaneous/ → Utility codes, experiments, and other practice scripts.
+Miscellaneous – Utility codes and experiments.
 
-⚡ Features
+# Features ⚡
 
-Well-structured code with comments for better understanding.
+Well-structured – Clean folder and file organization.
 
-Covers multiple areas of Python programming.
+Commented Code – Easy to understand.
 
-Beginner to advanced level examples.
+Coverage – From basics to advanced topics.
 
-Easy to navigate folder structure.
+Reusable – Scripts can be adapted for other projects.
 
-🛠 Requirements
+# Requirements 🛠
 
-Python 3.7+
+Python Version – Python 3.7+ recommended.
 
-(Optional) Virtual environment for isolated dependencies.
+Dependencies – Standard library (extra libraries mentioned inside project folders).
 
-Additional libraries (if any) mentioned inside specific project folders.
+Environment – Virtual environment (optional).
 
-🚀 Usage
+# Contribution 🤝
 
-Clone the repository:
+Fork the repository.
 
-git clone https://github.com/your-username/your-repo-name.git
+Create a new branch (feature-xyz).
 
+Commit changes with clear messages.
 
-Navigate to a folder and run a script:
+Open a Pull Request.
 
-cd Basics
-python example.py
+# Author 👨‍💻
 
-🤝 Contribution
+Maintainer – [Arghya Roy]
 
-Contributions are welcome! 🎉
-
-Fork the repo
-
-Create a new branch (feature-new-code)
-
-Commit your changes
-
-Open a Pull Request
-
-📜 License
-
-This repository is licensed under the MIT License – feel free to use, modify, and share.
-
-👨‍💻 Author
-
-Maintained by [Your Name]. Suggestions and improvements are always appreciated!thon-With-Me
+Suggestions – Always welcome!
+Maintained by [Arghya]. Suggestions and improvements are always appreciated!thon-With-Me
