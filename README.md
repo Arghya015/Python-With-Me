@@ -1,52 +1,50 @@
-# Python: A New Vision 🚀
+# Python: A New Vision
 
-This repository contains a collection of Python programs covering different topics, from beginner-friendly examples to advanced problem-solving scripts. It is designed to be a reference hub for students, developers, and anyone learning or practicing Python.
+A curated collection of Python programs covering concepts from **fundamentals to advanced problem solving**.  
+This repository serves as a structured reference for learning, practicing, and exploring Python programming.
 
-# Repository Structure 📂 
+---
 
-Basics – Simple programs (loops, conditions, functions).
+## Repository Structure
 
-Data Structures – Lists, tuples, sets, dictionaries, stacks, queues.
+| Directory | Description |
+|-----------|-------------|
+| Basics | Fundamental programs covering loops, conditions, and functions |
+| Data Structures | Implementations using lists, tuples, sets, dictionaries, stacks, and queues |
+| Algorithms | Searching, sorting, recursion, and optimization techniques |
+| OOP | Programs demonstrating classes, inheritance, polymorphism, and encapsulation |
+| Projects | Mini projects and practical scripts |
+| Miscellaneous | Experimental scripts and utility programs |
 
-Algorithms – Searching, sorting, recursion, optimization.
+---
 
-OOP – Classes, inheritance, polymorphism, encapsulation.
+## Key Features
 
-Projects – Mini projects and real-world scripts.
+| Feature | Details |
+|--------|--------|
+| Structured Organization | Clear and logical folder hierarchy |
+| Readable Code | Well-commented and easy to understand |
+| Wide Coverage | Includes beginner to advanced topics |
+| Reusable Scripts | Code designed for learning and reuse |
 
-Miscellaneous – Utility codes and experiments.
+---
 
-# Features ⚡
+## Requirements
 
-Well-structured – Clean folder and file organization.
+| Component | Specification |
+|----------|--------------|
+| Python Version | Python 3.7 or higher |
+| Dependencies | Primarily Python standard library |
+| Environment | Virtual environment recommended (optional) |
 
-Commented Code – Easy to understand.
+---
 
-Coverage – From basics to advanced topics.
+## Author
 
-Reusable – Scripts can be adapted for other projects.
+| Name | Role |
+|-----|-----|
+| **Arghya Roy** | Repository Maintainer |
 
-# Requirements 🛠
+---
 
-Python Version – Python 3.7+ recommended.
-
-Dependencies – Standard library (extra libraries mentioned inside project folders).
-
-Environment – Virtual environment (optional).
-
-# Contribution 🤝
-
-Fork the repository.
-
-Create a new branch (feature-xyz).
-
-Commit changes with clear messages.
-
-Open a Pull Request.
-
-# Author 👨‍💻
-
-Maintainer – [Arghya Roy]
-
-Suggestions – Always welcome!
-Maintained by [Arghya]. Suggestions and improvements are always appreciated! Python-With-Me
+This repository documents my ongoing work and learning in **Python programming and algorithmic problem solving**.reciated! Python-With-Me
