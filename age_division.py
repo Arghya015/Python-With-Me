@@ -10,4 +10,4 @@ elif age<=30:
 elif age<=60:
     print("Man")
 else:
-    print("Old")      
+    print("Old")            
