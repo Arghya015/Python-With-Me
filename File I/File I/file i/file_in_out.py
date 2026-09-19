@@ -1,6 +1,0 @@
-f=open("demo.txt","r")
-data=f.read()
-new_data=data.replace("java","python")
-print(new_data)
-f=open("demo.txt","w")
-f.write(new_data)
